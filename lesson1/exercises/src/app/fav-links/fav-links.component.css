@@ -1,0 +1,17 @@
+.fav-links {
+    margin-top: 2rem;
+    text-align: center;
+    border: 3px dotted black;
+}
+
+.favSection {
+    text-align: center;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5rem;
+}
+
+.container {
+    text-align: center;
+}
